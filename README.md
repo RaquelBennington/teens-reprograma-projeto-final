@@ -1,48 +1,87 @@
-# teens-reprograma-projeto-final
+# Teens-reprograma-projeto-final
+CRONOGRAMA
+___________________________________________________________________________________________________ S2
 
-# On8-projeto-1-m-de-maravilhosa
+05/12 - Planejamento e início do projeto.
 
-Online T8 | Front-end | 2020 | Semana 5 | Projeto 1 - M de Maravilhosa
+               * Orientação: Estrutura inicial.
 
-Professora: Raquel Andrade
+09/12 - Orientações para finalizar do projeto.
 
-<img src="https://i.ibb.co/5cTvbhC/readme-header.png" >
+               * Orientação: Responsividade e JavaScript .  
+ 
+09/12 -  Entrega do projeto
+            
+               * Enviar o projeto até às 18h (porfavorzinho)
+
+12/12 - Apresentação do projeto. 
 
 
-# CRONOGRAMA
+SOBRE O PROJETO
+___________________________________________________________________________________________________ S2
 
-**05/09 - Planejamento e início do projeto.**
-
-**09/09 - Plantão de dúvidas.**
-
-**11/09 - Entrega do projeto e enviar PullRequest até às 23h59.**
-
-## Sobre o Projeto
 O projeto "M de Maravilhosa" é um site com referências de mulheres inspiradoras.
 
-## Personalidade 
-Escolher uma mulher Maravilhosa que te inspira.
 
-## Protótipo figma
-Seguir o layout [link](https://www.figma.com/file/XBEywzd2yF47RaWm0Gw4t7Tz/M-de-Maravilhosa?node-id=0%3A1)
+ORIENTAÇÕES
+___________________________________________________________________________________________________ S2
 
-## Requisitos obrigatórios:
+Página Maravilhosa
 
-1. Seguir o layout conforme o protótipo do Figma;
-2. Inserir nome e a foto de sua maravilhosa;
-3. A página deve ser responsiva;
-4. Realizar o desenvolvimento mobile first;
-5. Criar uma página com o seu perfil;
----
+- Escolher uma mulher Maravilhosa que te inspira.
+- Escolher 2 fotos em alta qualidade.
 
-## Orientações
+- Header
+   - Inserir nome da maravilhosa.
+   - Uma frase curta como introdução.
+   - Inserir uma foto da sua maravilhosa.
+
+- Seção história
+   - Criar um título bafão.
+   - Uma frase de citação.
+   - Inserir uma foto de PERFIL da sua maravilhosa.
+   - Manter título "Sua história"
+   - Fazer um pequeno texto de apresentação da sua maravilhosa.
+   - Criar um hiperlink para a página da autora.
+
+-  Seção recado
+   - Utilizar JavaScript  para printar um recadinho na tela para nossa maravilhosa.
 
 
-**1.** Entrar no repositório e fazer o fork do repositório do projeto M de Maravilhosa
+- Seção Footer
+   - Criar um hiperlink na palavra HOME ( para retorna página HOME).
+   - Criar um hiperlink na palavra Conheça a {reprograma} 
+     Link: https://reprograma.com.br/
+   - Criar um hiperlinks para os ícones (Facebook, Instagram, LinkdIn e Twitter) .
 
-   Link: [Repositório](https://github.com/reprograma/On8-projeto-1-m-de-maravilhosa)
+Página Autora 
 
-**2.** Clicar no botão CODE e copiar o link.
+ - Header
+   - Manter a frase "The future is female coders."
+   - Inserir um vídeo do Youtube. 
+   - Inserir uma foto da sua maravilhosa.
 
-<img src="https://i.ibb.co/1J2MF22/git-fork.png" width="400" height="250" >
+ - Seção  Autora
+   - Inserir no Título o nome da autora"
+   - Inserir um foto de perfil. 
+   - Subtítulo: curtinho .
+   - Fazer uma frase sobre a sua experiência na Reprograma.
+  -  Criar um hiperlink no seu nome para o seu LinkedIn.
+  -  Criar um hiperlink no nome da sua poderosa ( para a página da Maravilhosa).
+
+-  Seção recado
+   - Utilizar JavaScript  criar um formulário para contato.
+
+Links 
+___________________________________________________________________________________________________ S2
+
+- Dontpad: http://dontpad.com/teens-projeto-final
+- Link Figma: https://www.figma.com/file/DK3k7nRzoEplDYWMtTNhbC/Teens-Maravilhosas?node-id=74%3A14
+
+
+Fim
+________________________________________________________________
+
+
+
       
